@@ -15,7 +15,7 @@ This multi-part web application is designed to streamline restaurant operations 
   - The Pre-Release 1 is uploaded in the Main Repository.
   - Any Queries can be sent to my E-Mail ID: [thetechguy34@outlook.com](mailto:thetechguy34@outlook.com)
 
-For the full ChangeLog: [Click Here](https://github.com/thetechguy-kt/interview-caller-system_online/blob/main/Changelog.md)
+For the full ChangeLog: [Click Here](https://github.com/thetechguy-kt/restaurant-management-system/blob/main/Changelog.md)
 
 ## Core Modules
 
