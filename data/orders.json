@@ -1,0 +1,17 @@
+{
+    "2": {
+        "items": [
+            {
+                "name": "Burger",
+                "qty": 9,
+                "price": 50
+            },
+            {
+                "name": "Pizza",
+                "qty": 19,
+                "price": 120
+            }
+        ],
+        "status": "ready"
+    }
+}
