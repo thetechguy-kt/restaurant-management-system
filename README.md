@@ -12,7 +12,8 @@ This multi-part web application is designed to streamline restaurant operations 
 
 ### One-Time ChangeLog ###
 2nd January 2026:
-  - The Pre-Release 1 is uploaded in the Main Repository.
+  - The Release 1 is uploaded in GitHub.
+  - Some bugs have been fixed.
   - Any Queries can be sent to my E-Mail ID: [thetechguy34@outlook.com](mailto:thetechguy34@outlook.com)
 
 For the full ChangeLog: [Click Here](https://github.com/thetechguy-kt/restaurant-management-system/blob/main/Changelog.md)
