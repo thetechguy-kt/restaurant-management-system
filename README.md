@@ -11,7 +11,7 @@
 This multi-part web application is designed to streamline restaurant operations by managing table availability, taking orders linked to tables, displaying kitchen order statuses, and generating bills. The menu is loaded dynamically from an Excel file, and all data is stored locally using JSON files to enable offline use.
 
 ### One-Time ChangeLog ###
-2nd January 2026:
+4th January 2026:
   - The Release 1 is uploaded in GitHub.
   - Some bugs have been fixed.
   - Any Queries can be sent to my E-Mail ID: [thetechguy34@outlook.com](mailto:thetechguy34@outlook.com)
