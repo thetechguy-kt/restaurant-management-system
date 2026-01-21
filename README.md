@@ -14,7 +14,7 @@ This multi-part web application is designed to streamline restaurant operations 
 4th January 2026:
   - The Release 1 is uploaded in GitHub.
   - Some bugs have been fixed.
-  - Any Queries can be sent to my E-Mail ID: [thetechguy34@outlook.com](mailto:thetechguy34@outlook.com)
+  - Any Queries can be sent to my E-Mail ID: [karthikeyanvijayabaskar@gmail.com](mailto:karthikeyanvijayabaskar@gmail.com)
 
 For the full ChangeLog: [Click Here](https://github.com/thetechguy-kt/restaurant-management-system/blob/main/Changelog.md)
 
