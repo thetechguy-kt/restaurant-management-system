@@ -6,6 +6,7 @@
 
 <i>A simple, offline restaurant management system with table tracking, order taking, kitchen workflow, and billing — built using Python and Streamlit.</i>
 
+### <i>This project is archived and further versions will not be uploaded.</i>
 ### <i>This project is licensed under the GNU General Public License v3.0 — see the LICENSE file for details.</i>
 
 This multi-part web application is designed to streamline restaurant operations by managing table availability, taking orders linked to tables, displaying kitchen order statuses, and generating bills. The menu is loaded dynamically from an Excel file, and all data is stored locally using JSON files to enable offline use.
